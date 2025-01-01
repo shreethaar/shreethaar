@@ -1,7 +1,7 @@
 # About Me:
 Reverse Engineering, Malware Analysis & Malware Development Enthusiast, Passionate in DFIR. Plays CTF during most of the weekend with [RE:UN10N](https://x.com/reun10n_)
 
-![malware](malware.gif)
+![malware](malwareeee.gif)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=shreethaar&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=false)<br/>
