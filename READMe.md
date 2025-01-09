@@ -10,7 +10,9 @@ Reverse Engineering, Malware Analysis & Malware Development Enthusiast, Passiona
 
 
 [![shreethaar's github stats](https://github-readme-stats.vercel.app/api?username=shreethaar&theme=react)](https://github.com/anuraghazra/github-readme-stats)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shreethaar&theme=react&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 ![Profile counter](https://komarev.com/ghpvc/?username=shreethaar&color=blue)
 
 ## 🏆 GitHub Trophies
